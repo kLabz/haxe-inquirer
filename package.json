@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [
+    "haxe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kLabz/MY_REPO"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rudy G",
+    "email": "k@klabz.org",
+    "url": "https://github.com/kLabz"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
+

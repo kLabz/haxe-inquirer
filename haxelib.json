@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.1",
+  "releasenote": "Initial release. (See CHANGELOG.md)",
+  "url": "https://github.com/kLabz/MY_REPO",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+
