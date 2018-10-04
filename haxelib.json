@@ -1,14 +1,17 @@
 {
-  "name": "",
-  "description": "",
-  "version": "0.0.1",
-  "releasenote": "Initial release. (See CHANGELOG.md)",
-  "url": "https://github.com/kLabz/MY_REPO",
+  "name": "inquirer",
+  "description": "Haxe externs for inquirer (nodejs lib)",
+  "version": "0.1.0",
+  "releasenote": "Initial release.",
+  "url": "https://github.com/kLabz/haxe-inquirer",
   "license": "MIT",
   "tags": [],
   "classPath": "src",
   "contributors": [
     "klabz"
-  ]
+  ],
+  "dependencies": {
+    "js-object": ""
+  }
 }
 
