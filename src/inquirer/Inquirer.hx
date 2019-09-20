@@ -3,7 +3,7 @@ package inquirer;
 import haxe.DynamicAccess;
 import haxe.extern.EitherType;
 import js.Object;
-import js.Promise;
+import js.lib.Promise;
 
 @:jsRequire('inquirer')
 extern class Inquirer {
@@ -104,7 +104,7 @@ abstract Question<TAnswers>(EQuestion<TAnswers>) from EQuestion<TAnswers> {
 extern class Separator {
 	public var type(default, never):String; // = "separator"
 
-	public function new(?value:String) {}
+	public function new(?value:String);
 }
 
 typedef Choice = EitherType<
